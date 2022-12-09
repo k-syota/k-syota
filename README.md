@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-syota)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-syota)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://github.com/k-syota/k-syota/">
@@ -41,7 +42,5 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-syota)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k-syota&theme=onestar&column=6&margin-w=15)](https://github.com/k-syota/github-profile-trophy)
