@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-syota)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <a href="https://github.com/k-syota/k-syota/">
     <img src="https://komarev.com/ghpvc/?username=k-syota" alt="yutkat" />
@@ -40,4 +42,4 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-syota)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=アカウント名)](https://github.com/anuraghazra/github-readme-stats)
