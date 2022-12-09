@@ -39,3 +39,5 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-syota)](https://github.com/anuraghazra/github-readme-stats)
