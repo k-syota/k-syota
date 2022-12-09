@@ -8,7 +8,7 @@
   <a href="https://stackoverflow.com/users/k-syota">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/5720201?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a>
-  <a href="http://qiita.com/k-syota">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/k-syota/posts.svg" />
+  <a href="http://qiita.com/Nishimurasyota">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Nishimurasyota/posts.svg" />
   </a>
 </p>
