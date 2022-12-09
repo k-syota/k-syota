@@ -44,4 +44,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-syota)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=k-syota&theme=flat&column=5)](https://github.com/k-syota/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=k-syota&theme=flat&column=6)](https://github.com/k-syota/github-profile-trophy)
