@@ -42,4 +42,4 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=アカウント名)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-syota)](https://github.com/anuraghazra/github-readme-stats)
