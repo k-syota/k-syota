@@ -11,4 +11,7 @@
   <a href="http://qiita.com/Nishimurasyota">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Nishimurasyota/posts.svg" />
   </a>
+  <//qiita.com/Nishimurasyota">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Nishimurasyota/contributions.svg" />
+  </a>
 </p>
