@@ -23,3 +23,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=k-syota&show_icons=true" />
 </picture>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=k-syota&repo=github-readme-stats)](https://github.com/k-syota/github-readme-stats)
