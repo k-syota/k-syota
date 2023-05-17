@@ -11,4 +11,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=k-syota&theme=onestar&column=7&margin-w=15&margin-h=15)](https://github.com/k-syota/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-syota&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k-syota&show_icons=true&theme=tokyonight)
